@@ -1,0 +1,10 @@
+# Frontend
+/barber-shop-ui/node_modules
+
+# Backend
+/barber-shop-api/target
+
+# IDEs
+.idea
+*.iml
+
