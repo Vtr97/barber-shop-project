@@ -39,8 +39,8 @@ A aplicação é dividida em dois módulos principais:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/barber-shop.git
-cd barber-shop
+git clone https://github.com/Vtr97/barber-shop-project.git
+cd barber-shop-project
 ```
 ### 2. Rodar o Backend
 Edite o arquivo barber-shop-api/src/main/resources/application.yml
