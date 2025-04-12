@@ -46,7 +46,7 @@ cd barber-shop-project
 Edite o arquivo barber-shop-api/src/main/resources/application.yml
 com as credenciais do banco de dados
 
-### 3. Rodar o Backend
+### 3. Rodar o Frontend
 no diretório barber-shop-ui 
 ```bash
 npm install
