@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: barber-shop-api
+  datasource:
+    url: jdbc:postgresql://localhost:5432/barber_shop_api
+    username: postgres
+    password: 2350
+  jpa:
+    hibernate:
+      ddl-auto: validate
